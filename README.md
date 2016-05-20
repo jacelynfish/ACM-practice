@@ -10,3 +10,8 @@ HDU 1018 Big Number http://acm.hdu.edu.cn/showproblem.php?pid=1018
 HDU 1061 Rightmost Digit http://acm.hdu.edu.cn/showproblem.php?pid=1061
 
 UVa 10038 JollyJumper https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=979
+
+UVa 10018 ReverseAdd https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=959
+
+Uva 701 The Archeologists’ Dilemma https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=642
+此题参考了解题报告http://www.cnblogs.com/staginner/archive/2011/12/19/2293717.html
