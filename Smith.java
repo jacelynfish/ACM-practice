@@ -1,4 +1,4 @@
-package contest1;
+package hello;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -14,30 +14,35 @@ public class Smith {
 			
 			String noi = in.nextLine();
 			int nof = Integer.parseInt(noi);
-			for(int no = nof; ;no++){
+			for(int no = nof + 1; ;no++){
 				if(isPrime(no)){
 					continue;
 				}else{
+//					System.out.println(no);
 					ArrayList<Integer> primes = new ArrayList<Integer>();
 					
 					getPrimeFactors(no,primes);
 					int primeTotal = 0;
 					for(Integer p : primes){
+//						System.out.println(p);
 						if(p > 9){
 							int pk = p;
-							while(pk % 10 != 0){
-								
+							while(pk != 0){
+						
+//								System.out.println(pk %10);
 								primeTotal += pk % 10;
 								pk = pk / 10;
+								
+								
 							}
 						}else{
-							
+//							System.out.println(p);
 							primeTotal += p;
 						}
 					}
 					int noTotal = 0;
 					int nok = no;
-					for(int k = 0; k < noi.length();k++){
+					for(int k = 0; k <= noi.length();k++){
 						noTotal += nok%10;
 						nok = nok / 10;
 						
