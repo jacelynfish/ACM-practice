@@ -21,3 +21,5 @@ UVa 10127 Ones https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Item
 UVa 10205 Stack Em up https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1146
 
 UVa 401 Palindrome https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=342
+
+UVa 10042 SmithNumber https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=983
