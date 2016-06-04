@@ -7,7 +7,6 @@ public class Smith {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-//		in = InputUtil.getDefaultScanner();
 		String casei = in.nextLine();
 		int caseCnt = Integer.parseInt(casei);
 		for(int i = 0; i < caseCnt; i++){
@@ -18,25 +17,25 @@ public class Smith {
 				if(isPrime(no)){
 					continue;
 				}else{
-//					System.out.println(no);
+
 					ArrayList<Integer> primes = new ArrayList<Integer>();
 					
 					getPrimeFactors(no,primes);
 					int primeTotal = 0;
 					for(Integer p : primes){
-//						System.out.println(p);
+
 						if(p > 9){
 							int pk = p;
 							while(pk != 0){
 						
-//								System.out.println(pk %10);
+
 								primeTotal += pk % 10;
 								pk = pk / 10;
 								
 								
 							}
 						}else{
-//							System.out.println(p);
+
 							primeTotal += p;
 						}
 					}
@@ -66,7 +65,7 @@ public class Smith {
 		if(isPrime(no)){
 			primes.add(no);
 		}else{
-//			System.out.println(factors.length);
+
 			int first = factors[2];
 			int second = factors[3];
 			if(isPrime(first)){
