@@ -23,3 +23,5 @@ UVa 10205 Stack Em up https://uva.onlinejudge.org/index.php?option=com_onlinejud
 UVa 401 Palindrome https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=342
 
 UVa 10042 SmithNumber https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=983
+
+UVa 10132 FileFragmentation https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1073
