@@ -27,3 +27,5 @@ UVa 10042 SmithNumber https://uva.onlinejudge.org/index.php?option=com_onlinejud
 UVa 10132 FileFragmentation https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1073
 
 UVa 10252 Common Permutation https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1193
+
+UVa 10150 Doublets https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=13&page=show_problem&problem=1091
