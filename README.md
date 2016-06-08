@@ -25,3 +25,5 @@ UVa 401 Palindrome https://uva.onlinejudge.org/index.php?option=com_onlinejudge&
 UVa 10042 SmithNumber https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=983
 
 UVa 10132 FileFragmentation https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1073
+
+UVa 10252 Common Permutation https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1193
