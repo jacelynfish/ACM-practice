@@ -2,6 +2,8 @@ package acm;
 
 import java.util.Scanner;
 
+//poj 3094
+
 public class QuickSum {
 
 	public static void main(String[] args) {
