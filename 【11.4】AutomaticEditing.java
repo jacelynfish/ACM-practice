@@ -1,8 +1,6 @@
 package acm;
 
-import java.util.ArrayList;
 import java.util.Scanner;
-import java.util.regex.Pattern;
 
 //Uva 10115 - Automatic Editing ¡¾Accepted¡¿
 
